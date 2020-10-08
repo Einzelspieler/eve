@@ -6,8 +6,8 @@
          "date": "14.10.2020",
          "starttime": "13:00",
          "endtime": "14:00",
-         "user": "buFdHIfLeGVZrICCjPaPrzxJmO02"
-         "sport": true,
+         "user": "buFdHIfLeGVZrICCjPaPrzxJmO02",
+         "sport": true
       },
 
       {
@@ -16,8 +16,8 @@
          "date": "14.10.2020",
          "starttime": "15:00",
          "endtime": "16:00",
-         "user": "buFdHIfLeGVZrICCjPaPrzxJmO02"
-        "sport": false,
+         "user": "buFdHIfLeGVZrICCjPaPrzxJmO02",
+        "sport": false
       }
   ],
   "length": {
