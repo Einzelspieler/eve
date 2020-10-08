@@ -7,6 +7,7 @@
          "starttime": "13:00",
          "endtime": "14:00",
          "user": "buFdHIfLeGVZrICCjPaPrzxJmO02"
+         "sport": true,
       },
 
       {
@@ -16,6 +17,7 @@
          "starttime": "15:00",
          "endtime": "16:00",
          "user": "buFdHIfLeGVZrICCjPaPrzxJmO02"
+        "sport": false,
       }
   ],
   "length": {
